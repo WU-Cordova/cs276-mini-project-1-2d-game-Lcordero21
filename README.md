@@ -95,18 +95,18 @@ In this silly little game, you play as "Boo the Ghost" who is terrified of pumpk
 
 **Game Impact**: It enhances the game experience (although, I didn't change the audios after changing the theme because I thought the huge explosion sound is so out of place for a ghost crashing, but I find it kind of funny)
 
-**Technical Details**: I made a new assets folder and called it "Audios", adding all the audios in this folder. I then added the background music as its own element in the hierarchy, while I assigned the explosion audio to the explosion effect as an audio source.
+**Technical Details**: I made a new assets folder and called it "Audios", adding all the audios in this folder. I then added the background music as its own element in the hierarchy, while I assigned the explosion audio to the explosion particle effect as an audio source (turning down all the audios as needed).
 
 **Known Issues**: N/A
 
 
 ### 7. Animate the Booster Graphic with Audio (6 points)
 
-**Implementation**: 
+**Implementation**: When the booster graphic is activated on the ghost, a sound will play.
 
-**Game Impact**: 
+**Game Impact**: It's a nice little touch to the game experience, similarly to the other sound effects.
 
-**Technical Details**: 
+**Technical Details**: In order to do this, I saved the audio to my audios folder. I then attatched the booster audio to the actual BoosterFlame (and turned down the audio a bit)
 
 **Known Issues**: N/A
 
