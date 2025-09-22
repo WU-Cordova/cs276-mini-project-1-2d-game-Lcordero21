@@ -32,15 +32,15 @@ In this silly little game, you play as "Boo the Ghost" who is terrified of pumpk
 ### Limitations
 - I wanted to add the high score extension, but I was kind of confused by the instructions.
 
-## Extensions Implemented
+## Extensions Implemented 
 
 ### 1. Create a Cohesive Color Scheme (2 points)
 
 **Implementation**: To create the color scheme, I just went with typical Halloween Colors: "Purple, Green, and Orange"
 
-**Game Impact**: It adds to the overall theme change
+**Game Impact**: It adds to the overall theme change.
 
-**Technical Details**: In the actual object's settings (ex: score label, borders, player boost, obstacles) I changed the colors.
+**Technical Details**: In the actual object's settings (ex: score label, borders, player boost, obstacles) I changed the colors in the inspector window.
 
 **Known Issues**: N/A
 
@@ -51,7 +51,7 @@ In this silly little game, you play as "Boo the Ghost" who is terrified of pumpk
 
 **Game Impact**: It changes the concept from a ship avoiding meteorites to a ghost avoiding pumpkins.
 
-**Technical Details**: I just switched the sprites out with some custom ones I made (using the basic shapes).
+**Technical Details**: I just switched the sprites out with some custom ones I made (using the basic shapes) and added a new rigidbody and collision2d to them.
 
 **Known Issues**: N/A
 
@@ -69,13 +69,13 @@ In this silly little game, you play as "Boo the Ghost" who is terrified of pumpk
 
 ### 4. Add Ambient Background Particles (4 points)
 
-**Implementation**: 
+**Implementation**: I added ambient particles in the background.
 
-**Game Impact**:
+**Game Impact**: It just adds to the visuals overall of the game, I like to think of it as little ghost sparkles.
 
-**Technical Details**:
+**Technical Details**: I created a new particle system and adjusted it according to the dimensions of the screen.
 
-**Known Issues**: N/A
+**Known Issues**: The particles don't quite look like the example, and the particles go over the borders rather than behind them.
 
 
 ### 5. Increase Difficulty Over Time (5 points)
