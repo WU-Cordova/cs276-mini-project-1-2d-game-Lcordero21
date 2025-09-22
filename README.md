@@ -116,7 +116,9 @@ In this silly little game, you play as "Boo the Ghost" who is terrified of pumpk
 
 ## Reflection
 **Total Points Claimed**: [Base: 80% + Extensions: 20% = 100%] [Total extension points claimed: 29 pts.]
+
 **Challenges**: [I didn't have much difficulty with this project, it just took me awhile to actually sit down to do it (which is no fault of the game, it's just a me thing]
+
 **Learning Outcomes**: [Honestly, there is so, so much that I learned. I learned a bit of the coding but a ton about how to build a basic 2D game with elements that can interact with eachother]
 
 ## Development Notes
