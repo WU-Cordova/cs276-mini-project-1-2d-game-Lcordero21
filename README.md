@@ -106,7 +106,7 @@ In this silly little game, you play as "Boo the Ghost" who is terrified of pumpk
 
 **Game Impact**: It's a nice little touch to the game experience, similarly to the other sound effects.
 
-**Technical Details**: In order to do this, I saved the audio to my audios folder. I then attatched the booster audio to the actual BoosterFlame (and turned down the audio a bit)
+**Technical Details**: In order to do this, I saved the audio to my audios folder. I then attatched the booster audio to the actual BoosterFlame (and turned down the audio a bit), so it will activate when the booster is activated.
 
 **Known Issues**: N/A
 
@@ -115,9 +115,9 @@ In this silly little game, you play as "Boo the Ghost" who is terrified of pumpk
 - I only used audios provided in the tutorial
 
 ## Reflection
-**Total Points Claimed**: [Base: 80% + Extensions: X% = Total%]
-**Challenges**: [What was difficult]
-**Learning Outcomes**: [What you learned]
+**Total Points Claimed**: [Base: 80% + Extensions: 20% = 100%] [Total extension points claimed: 29 pts.]
+**Challenges**: [I didn't have much difficulty with this project, it just took me awhile to actually sit down to do it (which is no fault of the game, it's just a me thing]
+**Learning Outcomes**: [Honestly, there is so, so much that I learned. I learned a bit of the coding but a ton about how to build a basic 2D game with elements that can interact with eachother]
 
 ## Development Notes
-[Any additional notes about your development process]
+Not really, I did realize the game is really laggy on the web version, but I don't know how to fix that...
