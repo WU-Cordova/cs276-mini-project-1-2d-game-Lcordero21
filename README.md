@@ -73,20 +73,20 @@ In this silly little game, you play as "Boo the Ghost" who is terrified of pumpk
 
 **Game Impact**: It just adds to the visuals overall of the game, I like to think of it as little ghost sparkles.
 
-**Technical Details**: I created a new particle system and adjusted it according to the dimensions of the screen.
+**Technical Details**: I created a new particle system and adjusted it according to the dimensions of the screen, I also used the alpha scale (I think that's what it is called) to adjust the color so it fades in and out. The particles also disperse into seperate direction.
 
 **Known Issues**: The particles don't quite look like the example, and the particles go over the borders rather than behind them.
 
 
 ### 5. Increase Difficulty Over Time (5 points)
 
-**Implementation**: 
+**Implementation**: The obstacles will steadily get faster and faster the more it bounces off of things.
 
-**Game Impact**: 
+**Game Impact**: It adds more of a challenge to the game.
 
-**Technical Details**: 
+**Technical Details**: In PhysMat_Bouncy I changed the bounciness from 1 to 1.1
 
-**Known Issues**: N/A
+**Known Issues**: There is no cap of the speed of the obstacles, so eventually it will become impossible.
 
 
 ### 6. Add Sound Effects and Background Music (5 points)
