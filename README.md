@@ -1,16 +1,16 @@
-# 
+# Pumpkin Dash
 
 ## Play the Game
-**Unity Play Link**: [Your Unity Play URL]
+**Unity Play Link**: 
 
 ## Game Overview
-[Brief description of your game and its objective]
+In this silly little game, you play as "Boo the Ghost" who is terrified of pumpkins since they are commonly used on halloween to scare off evil spirits. Be sure to not touch the pumpkins or you might get trapped forever in one! 
 
 ### Controls
-- [List controls here]
+- For this game you only need the left-mouse button, Boo will follow your mouse as long as you're holding it down.
 
 ### How to Play
-[Instructions for playing the game]
+- Fly around and avoid the pumpkins (and borders)! The difficulty will increase overtime.
 
 ## Base Game Implementation
 
@@ -27,10 +27,10 @@
 - [x] Increase difficulty overtime
 
 ### Known Bugs
-- [List any bugs in base game]
+- The only thing I can really think of it that in the extension where I added ambient background particles, I couldn't quite get it to look like the example. Also, the particles go over the borders...
 
 ### Limitations
-- [List any limitations]
+- I wanted to add the high score extension, but I was kind of confused by the instructions.
 
 ## Extensions Implemented
 
