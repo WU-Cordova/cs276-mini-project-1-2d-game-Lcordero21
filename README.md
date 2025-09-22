@@ -91,11 +91,11 @@ In this silly little game, you play as "Boo the Ghost" who is terrified of pumpk
 
 ### 6. Add Sound Effects and Background Music (5 points)
 
-**Implementation**: 
+**Implementation**: I used the given audio files in the tutorial to implement background music and a crash sound effect.
 
-**Game Impact**: 
+**Game Impact**: It enhances the game experience (although, I didn't change the audios after changing the theme because I thought the huge explosion sound is so out of place for a ghost crashing, but I find it kind of funny)
 
-**Technical Details**: 
+**Technical Details**: I made a new assets folder and called it "Audios", adding all the audios in this folder.
 
 **Known Issues**: N/A
 
